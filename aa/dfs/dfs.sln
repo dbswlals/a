@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfs", "dfs\dfs.csproj", "{814728BD-716A-4FBE-852A-03FAB791D919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dfs", "dfs\dfs.csproj", "{814728BD-716A-4FBE-852A-03FAB791D919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dda", "dda\dda.csproj", "{CC2C8920-1D4E-4837-B2C5-268892EF90BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dda", "dda\dda.csproj", "{CC2C8920-1D4E-4837-B2C5-268892EF90BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aad", "aad\aad.csproj", "{2BCBDD27-4B4C-4DF8-9984-8B05392B95FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aad", "aad\aad.csproj", "{2BCBDD27-4B4C-4DF8-9984-8B05392B95FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssa", "ssa\ssa.csproj", "{4A937688-8542-475C-97C4-194739E13434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ssa", "ssa\ssa.csproj", "{4A937688-8542-475C-97C4-194739E13434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "사람ㅁㄷㄱ", "사람ㅁㄷㄱ\사람ㅁㄷㄱ.csproj", "{84D6E626-5383-4C02-8B40-8B61E69268A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체", "객체\객체.csproj", "{8E2C09A9-DD71-456A-AFB3-4E631FE1919D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "인스턴스 객체화", "인스턴스 객체화\인스턴스 객체화.csproj", "{BB0DE99F-0522-48E4-8BBC-1A9E2E607968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{4A937688-8542-475C-97C4-194739E13434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A937688-8542-475C-97C4-194739E13434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A937688-8542-475C-97C4-194739E13434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D6E626-5383-4C02-8B40-8B61E69268A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D6E626-5383-4C02-8B40-8B61E69268A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D6E626-5383-4C02-8B40-8B61E69268A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D6E626-5383-4C02-8B40-8B61E69268A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2C09A9-DD71-456A-AFB3-4E631FE1919D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2C09A9-DD71-456A-AFB3-4E631FE1919D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2C09A9-DD71-456A-AFB3-4E631FE1919D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2C09A9-DD71-456A-AFB3-4E631FE1919D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0DE99F-0522-48E4-8BBC-1A9E2E607968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0DE99F-0522-48E4-8BBC-1A9E2E607968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0DE99F-0522-48E4-8BBC-1A9E2E607968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0DE99F-0522-48E4-8BBC-1A9E2E607968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

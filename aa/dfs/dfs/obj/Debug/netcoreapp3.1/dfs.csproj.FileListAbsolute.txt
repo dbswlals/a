@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\bin\Debug\netcoreapp3.1\dfs.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\dfs\obj\Debug\netcoreapp3.1\dfs.genruntimeconfig.cache
