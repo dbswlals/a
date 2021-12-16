@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\bin\Debug\netcoreapp3.1\오크만ㄷㄹ.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\오크만ㄷㄹ\obj\Debug\netcoreapp3.1\오크만ㄷㄹ.genruntimeconfig.cache

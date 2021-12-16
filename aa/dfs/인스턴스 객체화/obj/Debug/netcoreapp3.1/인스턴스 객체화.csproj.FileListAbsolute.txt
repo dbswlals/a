@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\bin\Debug\netcoreapp3.1\인스턴스 객체화.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\인스턴스 객체화\obj\Debug\netcoreapp3.1\인스턴스 객체화.genruntimeconfig.cache
