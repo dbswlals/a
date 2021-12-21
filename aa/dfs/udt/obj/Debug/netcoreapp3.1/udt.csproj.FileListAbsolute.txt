@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\bin\Debug\netcoreapp3.1\udt.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\udt\obj\Debug\netcoreapp3.1\udt.genruntimeconfig.cache

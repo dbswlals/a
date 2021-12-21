@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\bin\Debug\netcoreapp3.1\포문.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\호문\obj\Debug\netcoreapp3.1\포문.genruntimeconfig.cache

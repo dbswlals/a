@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\bin\Debug\netcoreapp3.1\포문 예제 프로젝트.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\포문 예제 프로젝트\obj\Debug\netcoreapp3.1\포문 예제 프로젝트.genruntimeconfig.cache

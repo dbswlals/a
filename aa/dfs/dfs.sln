@@ -25,7 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "스태틱", "스태틱\스�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "스태틱틱", "static\스태틱틱.csproj", "{D46CBFB7-4A87-4A2A-AB2F-CAD656A8DCCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "더하기", "더하기\더하기.csproj", "{B0DE16EF-1948-4C08-A42E-E288337FBBFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "더하기", "더하기\더하기.csproj", "{B0DE16EF-1948-4C08-A42E-E288337FBBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "프로그램", "프로그램\프로그램.csproj", "{23EE0D05-287B-48EF-BB8A-2EE6262E1C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udt", "udt\udt.csproj", "{DD5A0046-3FD0-4CA4-B8B4-30EE472921EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "포문", "호문\포문.csproj", "{E00CBDAC-73FA-49C9-93B0-383571558CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "포문 예제 프로젝트", "포문 예제 프로젝트\포문 예제 프로젝트.csproj", "{E83C4B74-F008-4A96-80B5-B9EDAEF10425}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{B0DE16EF-1948-4C08-A42E-E288337FBBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DE16EF-1948-4C08-A42E-E288337FBBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DE16EF-1948-4C08-A42E-E288337FBBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EE0D05-287B-48EF-BB8A-2EE6262E1C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EE0D05-287B-48EF-BB8A-2EE6262E1C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EE0D05-287B-48EF-BB8A-2EE6262E1C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EE0D05-287B-48EF-BB8A-2EE6262E1C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5A0046-3FD0-4CA4-B8B4-30EE472921EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5A0046-3FD0-4CA4-B8B4-30EE472921EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5A0046-3FD0-4CA4-B8B4-30EE472921EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5A0046-3FD0-4CA4-B8B4-30EE472921EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00CBDAC-73FA-49C9-93B0-383571558CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00CBDAC-73FA-49C9-93B0-383571558CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00CBDAC-73FA-49C9-93B0-383571558CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00CBDAC-73FA-49C9-93B0-383571558CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83C4B74-F008-4A96-80B5-B9EDAEF10425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83C4B74-F008-4A96-80B5-B9EDAEF10425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83C4B74-F008-4A96-80B5-B9EDAEF10425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83C4B74-F008-4A96-80B5-B9EDAEF10425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
