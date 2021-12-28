@@ -1,5 +1,5 @@
 ﻿using System;
-
+/*
 namespace 프로그램
 {
     class Program
@@ -43,3 +43,4 @@ namespace 프로그램
         }
     }
 }
+*/

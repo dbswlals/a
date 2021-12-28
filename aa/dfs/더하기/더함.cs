@@ -21,7 +21,7 @@ namespace 더하기
         {
             return a / b;
         }
-        public int Mul (int a, int b)
+        public int Mul(int a, int b)
         {
             return a * b;
         }
@@ -29,9 +29,11 @@ namespace 더하기
         {
             return a % b;
         }
-
-        // 증감연산
-
-        static public int Increase(int a)
     }
 }
+
+        // 증감연산
+/*
+        static public int Increase(int a)
+    }
+}*/

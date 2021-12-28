@@ -17,7 +17,7 @@ namespace 더하기
             // ==================================================================
             // 더하기
             // c = a + b;
-            c = FunctionsForOperation
+            //c = FunctionsForOperation;
             Console.WriteLine(c);
             // 빼기
             c = a - b;
@@ -49,7 +49,7 @@ namespace 더하기
             // 같음 비교
             Console.WriteLine(a == b);
             // 다름 비교
-            Console.WriteLine(a f = b);
+            //Console.WriteLine(a f = b);
             // 크다
             Console.WriteLine(a > b);
             // 작다
@@ -119,15 +119,15 @@ namespace 더하기
             // xor
             Console.WriteLine(A ^ B);
             // not
-            Console.WriteLine(^A);
+            //Console.WriteLine(^A);
             // shift-left
-            Console.WriteLine(a << howManyBitYouWantToShift);
+            //Console.WriteLine(a << howManyBitYouWantToShift);
             // shift-right
-            Console.WriteLine(a >> howManyBitYouWantToShift);
+            //Console.WriteLine(a >> howManyBitYouWantToShift);
 
             // FSM Finite State Machine 유한 상태머신( 상태의 개수가 정해진 머신)
             // 클래스 상태에 따라 다른 동작을 하기위해 사용
-            [flags]
+            /*[flags]
             public enum e_FSM
         {
 
@@ -141,6 +141,7 @@ namespace 더하기
 
             STATE_4 = 1 << 3,
 
+        }*/
         }
     }
 }

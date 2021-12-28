@@ -1,6 +1,6 @@
-﻿using System;
+﻿/*using System;
 
-namespace 스태틱틱
+namespace 스태틱틱 
     class Program
 {
     static void Main(string[] args)
@@ -54,4 +54,4 @@ namespace 스태틱틱
         //
     }
 }
-}
+}*/

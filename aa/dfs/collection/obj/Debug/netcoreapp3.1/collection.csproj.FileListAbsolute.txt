@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.exe
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.deps.json
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.json
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.dev.json
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\bin\Debug\netcoreapp3.1\collection.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfo.cs
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.dll
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.pdb
+C:\Users\Admin\Documents\유\a\aa\dfs\collection\obj\Debug\netcoreapp3.1\collection.genruntimeconfig.cache
